@@ -26,6 +26,7 @@ git clone https://github.com/khbin501/chzzk-service-health-checker
 
 # 스크립트 실행
 python main.py
+
 📂 프로젝트 구조
 main.py: 서비스 상태를 체크하는 메인 로직
 
